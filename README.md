@@ -1,6 +1,6 @@
 
 # DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI
-## Descrição das tecnologias utilizadas e instruções de execução:
+# Descrição das tecnologias utilizadas e instruções de execução:
 
 
 ## Tecnologias utilizadas: 
